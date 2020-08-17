@@ -10,7 +10,10 @@
 }
 
 .cBlock{
-    height: 100px;
-    width: 100px;
+    height: 97px;
+    width: 97px;
     float: left;
+    border-style: solid;
+    border-width: 1px;
+    border-color:white;
 }
