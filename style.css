@@ -9,7 +9,7 @@
     display:block;    
 }
 
-.cBlock{
+#main > div{
     height: 97px;
     width: 97px;
     float: left;
