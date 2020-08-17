@@ -1,6 +1,16 @@
+*{
+    margin: 0;
+}
+
 #main {
     height: 25600px;
     width: 25600px;
     color: white;
-    display:block;
+    display:block;    
+}
+
+.cBlock{
+    height: 100px;
+    width: 100px;
+    float: left;
 }
